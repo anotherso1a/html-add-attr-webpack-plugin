@@ -67,6 +67,7 @@ module.exports = {
 
 #### attrs
 
+|props|description|
 |:-:|:-:|
 |key|css-selector 'script' means script tags|
 |value|attribute's key-value|
