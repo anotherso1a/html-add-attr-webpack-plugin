@@ -1,0 +1,15 @@
+{
+  "name": "html-add-attr-webpack-plugin",
+  "version": "1.0.0",
+  "description": "为生成的html文件中标签添加属性",
+  "keywords": ["webpack", "plugin", "html", "template"],
+  "author": "AnotherSola",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anotherso1a/html-add-attr-webpack-plugin"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
