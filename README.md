@@ -58,9 +58,17 @@ module.exports = {
 
 ### Options
 
+#### option
+
 |props|description|
 |:-:|:-:|
 |sourceFile|the html file that needs to rewrite. (default 'index.html')|
-|attrs|just like html attributes|
+|attrs|attributes need to add|
+
+#### attrs
+
+|:-:|:-:|
+|key|css-selector 'script' means script tags|
+|value|attribute's key-value|
 
 tks for using
